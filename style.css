@@ -37,6 +37,9 @@ path#Vector_7 {
   animation: rotate 30s linear infinite alternate-reverse;
   transform-origin: center;
   transform-box: fill-box;
+}
+
+#Gradient2 {
   background: #77a1d3;
   background: -webkit-linear-gradient(to right, #e684ae, #79cbca, #77a1d3);
   background: linear-gradient(to right, #e684ae, #79cbca, #77a1d3);
